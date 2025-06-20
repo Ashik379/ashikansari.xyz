@@ -27,13 +27,13 @@ const About = () => (
                 <h4>
                     <FormattedMessage
                         id='description'
-                        defaultMessage='My name is Esteban Nahuel Carrizo and I am a full stack developer.'
+                        defaultMessage='My name is Ashik Ansari and I am a full stack developer.'
                     />
                 </h4>
                 <p>
                     <FormattedMessage
                         id='my-description'
-                        defaultMessage='I have been working on web designing and web development for 4 years. Constantly updating the technologies I already master, but also looking to learn new technologies to enrich my skills and improve my good practices as a developer.'
+                        defaultMessage='I have been working on web designing and web development for 2 years. Constantly updating the technologies I already master, but also looking to learn new technologies to enrich my skills and improve my good practices as a developer.'
                     />
                 </p>
                 <ul>
@@ -45,7 +45,7 @@ const About = () => (
                                     defaultMessage='Age:'
                                 />
                             </span>
-                            25
+                            20
                         </p>
                     </li>
                     <li>
@@ -53,11 +53,11 @@ const About = () => (
                             <span>
                                 Hobbies:{" "}
                             </span>
-                                Chess, Football and Programming
+                                Chess, Cricket and Programming
                         </p>
                     </li>
                     <li>
-                        <p><span>Email:</span> estebancarrizo619@gmail.com</p>
+                        <p><span>Email:</span> ashik2060ansari@gmail.com</p>
                     </li>
                     <li>
                         <p>
@@ -67,7 +67,7 @@ const About = () => (
                                     defaultMessage='From:'
                                 />
                             </span>
-                            Tucumán, Argentina
+                           Lucknow, India
                         </p>
                     </li>
                 </ul>
